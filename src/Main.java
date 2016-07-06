@@ -11,7 +11,7 @@ public class Main {
 	}
 	public static void anotherMetod() {
 	    System.out.println("aaaa");
-	    List<Integer> list = new ArrayList();
+	    List<Integer> list = new ArrayList<>();
 	    list.add(1);
 	    list.add(2);
 	    
